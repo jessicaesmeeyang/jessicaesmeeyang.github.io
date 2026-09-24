@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Whitney High School, Class of 2028
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ocean Breeze Assisted Living
+  * Duties includes: Taking vitals, ADLs, activity planning
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Certifications
+======
+* CNA
+* BLS/CPR
   
-Skills
+Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* English (Native)
+* Mandarin (Native)
+* Spanish (Elementary)
+
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+[When Distance Becomes Risk](https://www.oxfordjss.org/july-2026-vol-9-issue-1/when-distance-becomes-risk)
+
+
+Additional Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Vice President of SunnyBlue (nonprofit for human potential, impacting 300 people across 3 chapters)
+* Stanford NNEA Public Relations Core Committee
+* herSTEMspace (nonprofit for females in stem, over 30 countries and over 300 volunteers) Social Media Director
