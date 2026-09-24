@@ -1,6 +1,6 @@
 ---
 title: "My Music Portfolio"
-excerpt: "[https://www.youtube.com/@jessicaesmeeyang](url)"
+[SunnyBlue YouTube Channel](https://www.youtube.com/@jessicaesmeeyang)
 collection: portfolio
 ---
 
