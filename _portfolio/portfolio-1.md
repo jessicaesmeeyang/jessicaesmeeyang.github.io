@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Brahms Intermezzo Op. 118 No. 2"
+excerpt: "[https://youtu.be/chUJ41-9kLQ?si=Wiz6mDF5Nz9XT-QO](url)"
 collection: portfolio
 ---
 
