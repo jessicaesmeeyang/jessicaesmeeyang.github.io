@@ -1,6 +1,6 @@
 ---
 title: "My Music Portfolio"
-[SunnyBlue YouTube Channel](https://www.youtube.com/@jessicaesmeeyang)
+[Music Channel](https://www.youtube.com/@jessicaesmeeyang)
 collection: portfolio
 ---
 
