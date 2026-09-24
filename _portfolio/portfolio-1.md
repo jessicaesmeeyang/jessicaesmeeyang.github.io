@@ -1,6 +1,5 @@
 ---
 title: "My Music Portfolio"
-[Music Channel](https://www.youtube.com/@jessicaesmeeyang)
 collection: portfolio
 ---
 
