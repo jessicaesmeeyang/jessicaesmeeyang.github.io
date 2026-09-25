@@ -7,4 +7,4 @@ collection: portfolio
 
 Awards: 
 Aside from overall age awards, below are special awards I have received. 
-<img src="/images/Jessica Yang Distinguished Musicality Special Award.pdf" width="500"> 
+<img src="/images/Jessica Yang Distinguished Musicality Special Award.pdf"> 
