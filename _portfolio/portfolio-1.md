@@ -7,3 +7,4 @@ collection: portfolio
 
 Awards: 
 Aside from overall age awards, below are special awards I have received. 
+<img src="/images/award1" alt="Image Description" width="500">
