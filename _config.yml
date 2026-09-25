@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Jessica Esmee Yang"
 title_separator          : "-"
 name                     : &name "Jessica Esmee Yang"
@@ -59,7 +59,6 @@ author:
   keybase          : # Username
   instagram        : "forjesssica"
   tiktok           : "forjesssica"
-  linkedin         : "jessica esmee yang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
