@@ -1,6 +1,6 @@
 ---
 title: "When Distance Becomes Risk"
-collection: publications
+url: /publications/
 category: journal
 excerpt: 'Analyzing geographic and socioeconomic disparities in hospital access across U.S. communities, developing a composite risk framework to identify populations vulnerable to delayed or limited healthcare access.'
 date: 2026-07-13
